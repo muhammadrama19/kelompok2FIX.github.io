@@ -56,7 +56,7 @@
             //mengambil data dari file json (Selenium)
             $.getJSON('HasilScrap.json',function(soup){
                 var str = "<table border=1 class='table'>";
-                str +="<tr class='head'><td>No</td><td class='tables'>Judul</td><td class='tables'>Top 100 Songs</td><td class='tables'>Waktu Publish</td></tr>";
+                str +="<tr class='head'><td>No</td><td class='tables'>Judul</td><td class='tables'>Top 100 Songs</td><td class='tables'>Waktu Scrapping</td></tr>";
                 $.each(soup,function(n,result){
                     str +=`<tr><td class='ranking'>${result.Rangking}</td><td class='tables'><img src="${result.Album}"></td><td class='tables'><h3>${result.Penyanyi}</h3><p>${result.Judul}</p></td><td class='tables'>${result.Waktu_scrapping}</td></tr>`;
                 });
