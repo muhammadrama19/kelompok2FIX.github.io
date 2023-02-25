@@ -1,0 +1,702 @@
+[
+      {
+            "Rangking": "1",
+            "Judul": "Sial",
+            "Penyanyi": "Mahalini",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w180h180/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzdhMTc1ZTRkZDY0OWNkM2UvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "2",
+            "Judul": "Lupakan Cinta",
+            "Penyanyi": "Rossa",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2Q2MmE3MTI2MzVmZWYyYzEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "3",
+            "Judul": "Tertawan Hati",
+            "Penyanyi": "Awdella",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzIyOGRmOGM1ZjZkZmYxNTkvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "4",
+            "Judul": "Semata Karenamu",
+            "Penyanyi": "Mario G Klau",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2YwMDQ0MjQzMjRhZGQ0YjcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "5",
+            "Judul": "Komang",
+            "Penyanyi": "Raim Laode",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzdmOGMxYzMxNWExYTE4Y2UvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "6",
+            "Judul": "Kisah Sempurna",
+            "Penyanyi": "Mahalini",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzBiMjA1MTQ5N2JkMDliZTgvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "7",
+            "Judul": "Rumah Singgah",
+            "Penyanyi": "Fabio Asher",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzUwNzEwYzg2ZDQ4ZWZhMWYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "8",
+            "Judul": "Kalih Welasku",
+            "Penyanyi": "Denny Caknan",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "9",
+            "Judul": "Tak Kan Hilang (OST DJS The Movie: Biarkan Aku Menari)",
+            "Penyanyi": "Budi Doremi",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "10",
+            "Judul": "Andaikan Kau Datang (From \"Miracle in Cell No. 7\")",
+            "Penyanyi": "Andmesh",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "11",
+            "Judul": "Rungkad",
+            "Penyanyi": "Happy Asmara",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "12",
+            "Judul": "Hati-Hati di Jalan",
+            "Penyanyi": "Tulus",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "13",
+            "Judul": "Tak Ingin Usai",
+            "Penyanyi": "Keisya Levronka",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "14",
+            "Judul": "Tak Mampu Lupa",
+            "Penyanyi": "Putri Ariani",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "15",
+            "Judul": "Mesin Waktu",
+            "Penyanyi": "Budi Doremi",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "16",
+            "Judul": "Interaksi",
+            "Penyanyi": "Tulus",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "17",
+            "Judul": "AKU MASIH MEMIKIRKANMU",
+            "Penyanyi": "Kezia",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "18",
+            "Judul": "Klebus",
+            "Penyanyi": "DC Musik",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "19",
+            "Judul": "Care Bebek",
+            "Penyanyi": "Jegeg Bulan",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "20",
+            "Judul": "Suwung",
+            "Penyanyi": "Muhammad Anhar",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "21",
+            "Judul": "Selamat (Selamat Tinggal) Feat. Audy",
+            "Penyanyi": "Virgoun",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "22",
+            "Judul": "Rasah Bali",
+            "Penyanyi": "Lavora",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "23",
+            "Judul": "Ayang",
+            "Penyanyi": "Nabila Maharani",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "24",
+            "Judul": "Full Senyum Sayang",
+            "Penyanyi": "Evan Loss",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "25",
+            "Judul": "Ku Yang Selalu Salah",
+            "Penyanyi": "Betrand Putra Onsu",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "26",
+            "Judul": "No Comment",
+            "Penyanyi": "Bunda Corla",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "27",
+            "Judul": "Tutur Batin",
+            "Penyanyi": "Yura Yunita",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "28",
+            "Judul": "Sekali Ini Saja",
+            "Penyanyi": "Rossa",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "29",
+            "Judul": "Mesra-mesraannya kecil-kecilan dulu",
+            "Penyanyi": "Sal Priadi",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "30",
+            "Judul": "Runtah",
+            "Penyanyi": "Dara Ayu",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "31",
+            "Judul": "Satu Tuju",
+            "Penyanyi": "Rizky Febian",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "32",
+            "Judul": "Putri Iklan",
+            "Penyanyi": "Mic - L",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "33",
+            "Judul": "Ada Untukmu (2019 Version)",
+            "Penyanyi": "Tyok Satrio",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "34",
+            "Judul": "Salah",
+            "Penyanyi": "Rizky Febian",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "35",
+            "Judul": "Joko Tingkir",
+            "Penyanyi": "Yeni Inka",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "36",
+            "Judul": "Satu Rasa Cinta",
+            "Penyanyi": "Fendik Adella",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "37",
+            "Judul": "Rahmatun Lil'Alameen Maher Zain (Reverb)",
+            "Penyanyi": "Gudang Remix",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "38",
+            "Judul": "RASA TAK BERTEPI",
+            "Penyanyi": "Divina",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "39",
+            "Judul": "DJ KILL BILL SLOW REMIX",
+            "Penyanyi": "Dj Komang Rimex",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "40",
+            "Judul": "RUNGKAD",
+            "Penyanyi": "Tri Suaka",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "41",
+            "Judul": "Dalam Sepiku Kaulah Candaku - Cintaku",
+            "Penyanyi": "Andra Respati",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "42",
+            "Judul": "Sheila On 7 - Anugerah Terindah Yang Pernah Kumiliki",
+            "Penyanyi": "Acousmix21",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "43",
+            "Judul": "Malam Bantu Aku",
+            "Penyanyi": "My Soul",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "44",
+            "Judul": "Ada Untukmu",
+            "Penyanyi": "Woro Widowati",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "45",
+            "Judul": "Rindu Rumah (Move It Fest 2022 Chapter Manado)",
+            "Penyanyi": "Wizz Baker",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "46",
+            "Judul": "Lagu Cinta",
+            "Penyanyi": "Virzha",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "47",
+            "Judul": "RAHMATUN LIL'ALAMEEN MAHER ZAIN ( SLOW REVERB )",
+            "Penyanyi": "Sandi Saputra",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "48",
+            "Judul": "DJ Rungkad Entek Entekan (FYP Tik Tok)",
+            "Penyanyi": "DJ GEDANG",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "49",
+            "Judul": "DJ TERLALU ST 12 SLOW BASS",
+            "Penyanyi": "Zein fvnky",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "50",
+            "Judul": "Kupu-Kupu Malam (From \"Kupu Malam\")",
+            "Penyanyi": "Virzha",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "51",
+            "Judul": "DJ SIAL - BAGAIMANA DENGAN AKU (Remix)",
+            "Penyanyi": "Dhota AP",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "52",
+            "Judul": "Perahu Kertas",
+            "Penyanyi": "Langitjiwa",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "53",
+            "Judul": "Karena Aku Setia-jungle Dutch 2k22 (Remix)",
+            "Penyanyi": "Sheila On 7",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "54",
+            "Judul": "Ayah Ibu",
+            "Penyanyi": "Karnamereka",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "55",
+            "Judul": "Kehilanganmu Berat Bagiku",
+            "Penyanyi": "Ziell Ferdian",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "56",
+            "Judul": "Rungkad",
+            "Penyanyi": "Farel Prayoga",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "57",
+            "Judul": "Itaneng Tenri Bolo",
+            "Penyanyi": "Fitri Adiba Bilqis",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "58",
+            "Judul": "DJ Malam Bantu Aku Tuk Luluhkan Dia - Semata Karenamu Terbaru 2023",
+            "Penyanyi": "DJ Remix Premier",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "59",
+            "Judul": "Klebus",
+            "Penyanyi": "Ndarboy Genk",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "60",
+            "Judul": "Mesin Waktu Feat. Alisia Rininta (OST. Takdir Cinta Yang Kupilih)",
+            "Penyanyi": "Randy Pangalila",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "61",
+            "Judul": "Sampai Kapan ( jaga hati untukmu )",
+            "Penyanyi": "Anneth",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "62",
+            "Judul": "Janji Kita",
+            "Penyanyi": "Nuca",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "63",
+            "Judul": "Malam Bantu Aku",
+            "Penyanyi": "ALIZ JOEZ",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "64",
+            "Judul": "DJ Semoga Engkau Bahagia Slow Beat Viral Tik Tok Terbaru 2023",
+            "Penyanyi": "Ziell Ferdian",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "65",
+            "Judul": "Alun Alun Nganjuk",
+            "Penyanyi": "Denny Caknan",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "66",
+            "Judul": "Tiba-tiba",
+            "Penyanyi": "Quinn Salman",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "67",
+            "Judul": "Bebaskan Diriku",
+            "Penyanyi": "Yuli Mahesa",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "68",
+            "Judul": "Janji Hanyo Di Muluik",
+            "Penyanyi": "Fauzana",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "69",
+            "Judul": "CAROLINA",
+            "Penyanyi": "Arus Suara",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "70",
+            "Judul": "Runtah",
+            "Penyanyi": "Revina Alvira",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "71",
+            "Judul": "Tujuh Belas",
+            "Penyanyi": "Tulus",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "72",
+            "Judul": "Kehilanganmu Berat Bagiku",
+            "Penyanyi": "Dj Rq Official",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "73",
+            "Judul": "Satu Rasa Cinta",
+            "Penyanyi": "Maulana Wijaya",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "74",
+            "Judul": "Panek Di Awak Kayo Di Urang",
+            "Penyanyi": "Fauzana",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "75",
+            "Judul": "Menghitung Hari",
+            "Penyanyi": "Melly Goeslaw",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "76",
+            "Judul": "SEMATA KARENA MU / TERE LIYE MASHUP",
+            "Penyanyi": "DANG YO RMX",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "77",
+            "Judul": "Sialan",
+            "Penyanyi": "Juicy Luicy",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "78",
+            "Judul": "Yo Ndak Mampu (Remix)",
+            "Penyanyi": "XIANZ",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "79",
+            "Judul": "Berdua Lebih Baik",
+            "Penyanyi": "gonebloom",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "80",
+            "Judul": "Mesin Waktu",
+            "Penyanyi": "Sakti Music",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "81",
+            "Judul": "INFONE MASEH (Ninu Ninu Ninu)",
+            "Penyanyi": "Kalia Siska",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "82",
+            "Judul": "DJ MAPOPO SYALALA",
+            "Penyanyi": "Mbolo",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "83",
+            "Judul": "Mawar Hitam (Live)",
+            "Penyanyi": "Tipe X",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "84",
+            "Judul": "Satu Rasa Cinta",
+            "Penyanyi": "Nova Ardana",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "85",
+            "Judul": "Semata Karenamu",
+            "Penyanyi": "Sallsa Bintan",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "86",
+            "Judul": "DJ aku rela melepas dirimu",
+            "Penyanyi": "DJ ERKA",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "87",
+            "Judul": "Aku Rela Melepas Dirimu, Tapi Jangan Bilang Kau Tak Cintaiku (KESAKITANKU) - FYP TikTok",
+            "Penyanyi": "DJ Aya Vincenzo",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "88",
+            "Judul": "Dermaga Biru",
+            "Penyanyi": "Fendik Adella",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "89",
+            "Judul": "Terlalu",
+            "Penyanyi": "Andre",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "90",
+            "Judul": "Juliette",
+            "Penyanyi": "Dewa 19",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "91",
+            "Judul": "Ih Abang Jahat (Remix)",
+            "Penyanyi": "Ecko Show",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "92",
+            "Judul": "Crolatte",
+            "Penyanyi": "Nuca",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "93",
+            "Judul": "Tiara",
+            "Penyanyi": "Difarina Indra",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "94",
+            "Judul": "Peneman Malam Sepi",
+            "Penyanyi": "OKAAY",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "95",
+            "Judul": "Care Bebek",
+            "Penyanyi": "Happy Asmara",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "96",
+            "Judul": "Bertengkar Manis",
+            "Penyanyi": "Barsena Bestandhi",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "97",
+            "Judul": "Satu Rasa Cinta",
+            "Penyanyi": "Icha Kiswara",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "98",
+            "Judul": "Yassir Lana",
+            "Penyanyi": "Risa Soliha",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "99",
+            "Judul": "Pecah Seribu",
+            "Penyanyi": "Happy Asmara",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      },
+      {
+            "Rangking": "100",
+            "Judul": "Dj Malam Bantu Aku X Ala Sipak Nando Nando",
+            "Penyanyi": "Dj Koplo",
+            "Album": "https://cdn.i-joox.com/static/di/default/default-album@300.png",
+            "Waktu_scrapping": "2023-02-25 19:20:41"
+      }
+]
